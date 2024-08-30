@@ -19,15 +19,16 @@ body {
 }
 
 main {
+  width: 500px;
+  margin-top: calc(50vh - 210px);
   padding: 0 10px;
-  max-width: 500px;
 }
 
 h1 {
   font-size: 2.5rem;
   line-height: 1.5;
   text-align: center;
-  margin: 20vh auto 20px;
+  margin: 0 auto 20px;
 }
 
 fieldset {

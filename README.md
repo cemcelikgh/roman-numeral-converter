@@ -1,4 +1,8 @@
-# roman_numeral_converter-freecodecamp
-Roman Numeral Converter
+# roman-numeral-converter
+freeCodeCamp JavaScript Algorithms and Data Structures Certification Project
+<br>Roman Numeral Converter
+<br>An application that converts integers to Roman numerals
 
-![Roman Numeral Converter](./roman-numeral-converter.jpg)
+Browse: <https://cemcelikgh.github.io/roman-numeral-converter/>
+
+[![Roman Numeral Converter Preview](./assets/roman-numeral-converter-preview.jpg "Browse Roman Numeral Converter")](https://cemcelikgh.github.io/roman-numeral-converter/)
