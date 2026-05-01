@@ -17,7 +17,7 @@ body {
 
 main {
   width: 500px;
-  margin-top: max(calc(50vh - 206px), 0px);
+  margin-top: max(calc(50vh - 256px), 0px);
   margin-left: auto;
   margin-right: auto;
   padding: 0 10px;
